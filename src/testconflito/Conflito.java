@@ -5,6 +5,6 @@ public class Conflito {
         int a = 0;
         int b = 1;
 
-        System.out.println("Resultado: " + a + b);
+        System.out.println("Resultado: " + (a / b));
     }
 }
